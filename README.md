@@ -8,7 +8,6 @@ This workshop covers the following key topics:
 
 1. **Git and GitHub Basics**: Learn the fundamentals of version control and how to use GitHub for collaboration.
 
-2. **Markdown**: Understand Markdown, a lightweight markup language used for text formatting.
 
 3. **Hands-on Exercises**: Practice using Git and Markdown to collaborate and effectively create projects!
 
