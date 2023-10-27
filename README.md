@@ -1,4 +1,4 @@
-# GitHub Workshop
+# GitHub Workshop - Cloned Ver.
 
 Welcome to the GitHub Workshop's repository! In this repository, you will find resources and materials to help you learn about GitHub, Git, and Markdown. This README provides an overview of what you can expect in this workshop.
 
@@ -31,8 +31,17 @@ Feel free to mess around and explore GitHub! 🌐
 
 <img src="https://firebasestorage.googleapis.com/v0/b/tasc-8df79.appspot.com/o/TASCLogo.png?alt=media&token=885899c8-a49c-46d7-9d22-ebc5507964db" width="100" />
 
-<!--
-Comments?
+
+<!-- Comments? -->
+
+## all this is a little difficult to understand
+## good seshh but
+
+## Poems for Prathvik
+### In the night's embrace,
+### Black as spiker's swift attack,
+### Haikyuu's fierce race.
+
 
                            ████████████
                       ██████████████████████████
@@ -132,4 +141,6 @@ Comments?
                             ███████████████
                               ███████████
                                ████████
--->
+
+
+# Thank you:)
