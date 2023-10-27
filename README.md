@@ -20,6 +20,10 @@ Download and install the following in your laptops in the order given below: (if
 2. Install [Github Dekstop](https://desktop.github.com/) 🚀
 3. Install [Git](https://git-scm.com/downloads) 📦
 
+### Profile Creator 
+- [Readme Creator 1](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Readme Creator 2](https://gprm.itsvg.in/)
+
 Feel free to mess around and explore GitHub!  🌐 
 
 🚀 Happy Coding! 🚀
