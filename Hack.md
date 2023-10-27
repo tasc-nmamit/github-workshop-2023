@@ -4,7 +4,7 @@
 We request you to *create a new Markdown file with the following naming convention* ***(Yourname)(Any Number(USN)).md***
 
 ## Adding Links
-You can link to external websites like [OpenAI](https://www.openai.com) or to other sections within this document. These links can be images too. Make sure you use `!` to render them
+You can link to external websites like [GitHub](https://github.com/) or to other sections within this document. These links can be images too. Make sure you use `!` to render them
 
 ## Formatting
 Make sure everything is neat. You can use formatting options such as:
