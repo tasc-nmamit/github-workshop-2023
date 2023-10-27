@@ -24,7 +24,9 @@ Download and install the following in your laptops in the order given below: (if
 - [Readme Creator 1](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Readme Creator 2](https://gprm.itsvg.in/)
 
-Feel free to mess around and explore GitHub!  🌐 
+Feel free to mess around and explore GitHub!  🌐
+
+**Don't Delete Everything**
 
 🚀 Happy Coding! 🚀
 
