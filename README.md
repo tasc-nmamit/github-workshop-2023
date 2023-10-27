@@ -1,4 +1,4 @@
-# GitHub Workshop
+# GitHub Workshop - Cloned Ver.
 
 Welcome to the GitHub Workshop's repository! In this repository, you will find resources and materials to help you learn about GitHub, Git, and Markdown. This README provides an overview of what you can expect in this workshop.
 
