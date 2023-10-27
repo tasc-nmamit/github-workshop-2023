@@ -11,7 +11,7 @@ This workshop covers the following key topics:
 2. **Markdown**: Understand Markdown, a lightweight markup language used for text formatting.
 
 3. **Hands-on Exercises**: Practice using Git and Markdown to collaborate and effectively create projects!
-4.**
+4.**xyzz.
 
 ## Resources
 Download and install the following in your laptops in the order given below: (if you have any trouble with the download or installation process, feel free to reach out to us 💬 and we'll help you on the day of the workshop )
