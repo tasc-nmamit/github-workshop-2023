@@ -15,9 +15,6 @@ Mountains are nature's fortresses, standing tall and proud. Their rugged grandeu
 
 Water, whether it's a calm lake, a meandering river, or the crashing waves of the sea, has a soothing and meditative quality. The reflection of the sky on the water's surface and the ebb and flow of tides remind us of life's constant movement and change. It's a reminder that in stillness, there is a world of motion and beauty.
 
-## The Colors of the Sky
-
-Sunsets and sunrises are daily masterpieces painted by the universe itself. The rich hues of red, orange, pink, and purple that adorn the sky are like an ever-changing canvas. 
 
 ## The Resilience of Life
 
