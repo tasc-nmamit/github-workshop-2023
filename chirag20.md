@@ -17,7 +17,7 @@ Water, whether it's a calm lake, a meandering river, or the crashing waves of th
 
 ## The Colors of the Sky
 
-Sunsets and sunrises are daily masterpieces painted by the universe itself. The rich hues of red, orange, pink, and purple that adorn the sky are like an ever-changing canvas. They teach us that beauty is ephemeral, and we must cherish the moments of splendor that life offers.
+Sunsets and sunrises are daily masterpieces painted by the universe itself. The rich hues of red, orange, pink, and purple that adorn the sky are like an ever-changing canvas. 
 
 ## The Resilience of Life
 
